@@ -11,7 +11,7 @@
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_3_4100-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![OS](https://img.shields.io/badge/Debian-Buster-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=r0t1v&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-vitor&show_icons=true&theme=default)
 
 <hr>
 <h3 align="center">👨‍🎓 Sociais</h3>
